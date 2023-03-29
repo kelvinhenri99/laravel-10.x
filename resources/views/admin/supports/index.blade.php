@@ -3,5 +3,5 @@
 @section('title', 'Page Title')
 
 @section('content')
-    <p>This is my body content.</p>
+    <h1>Listagem dos suportes</h1>
 @endsection
